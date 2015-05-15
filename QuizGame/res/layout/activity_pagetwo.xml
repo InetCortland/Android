@@ -1,0 +1,98 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/TableLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.NSCC.assignment2quizgame.Pagetwo" >
+
+    <TableRow
+        android:id="@+id/tableRow3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/txtuser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:text="@string/txtuservalue" />
+
+        <TextView
+            android:id="@+id/txtNamedisplay"
+            android:layout_width="118dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtscorelabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/scorelbl" />
+
+        <TextView
+            android:id="@+id/txtfinalScore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+    </TableRow>
+
+    <TextView
+        android:id="@+id/txtTerms"
+        android:layout_width="248dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:textSize="20sp" />
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_height="50dip"
+        android:layout_weight="3" >
+
+        <Button
+            android:id="@+id/btnQuiz1"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btnQuiz2"
+             android:layout_width="0dp"
+  			android:layout_height="fill_parent"
+  			android:layout_weight="1"  />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_height="50dip"
+        android:layout_weight="3" >
+
+        <Button
+            android:id="@+id/btnQuiz3"
+             android:layout_width="0dp"
+  			android:layout_height="fill_parent"
+  			android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btnQuiz4"
+             android:layout_width="0dp"
+  			android:layout_height="fill_parent"
+  			android:layout_weight="1" />
+
+    </TableRow>
+
+    <Button
+        android:id="@+id/btnQuit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnendvalue" />
+
+</TableLayout>

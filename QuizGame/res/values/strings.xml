@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz Game!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pagetwo">Quiz Game!</string>
+    <string name="btntxtSubmit">Submit</string>
+    <string name="txttxtGreeting">Greetings!</string>
+    <string name="hinttxtbox">Enter your Name</string>
+    <string name="txtuservalue">User:</string>
+    <string name="title_activity_pagethree">Results!</string>
+    <string name="txtvalue">Total Score:</string>
+    <string name="btnrestartvalue">Restart Quiz</string>
+    <string name="btnendvalue">Quit</string>
+    <string name="scorelbl">Score:</string>
+
+</resources>

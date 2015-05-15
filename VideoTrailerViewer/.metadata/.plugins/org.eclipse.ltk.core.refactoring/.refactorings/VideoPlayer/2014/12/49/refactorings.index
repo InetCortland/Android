@@ -1,0 +1,22 @@
+1417546053587	Rename method 'DisplayContact'
+1417547215375	Rename method 'displayTrailer'
+1417675285493	Delete element
+1417675288843	Delete element
+1417675780883	Delete element
+1417695488336	Rename field 'textView1'
+1417695537729	Extracts string 'null' into R.string.lblcurRating
+1417695586974	Extracts string 'null' into R.string.nullstring
+1417695903924	Extracts string 'null' into R.string.defaultrating
+1417695951836	Rename field 'textView1'
+1417696007206	Rename field 'ratingBar1'
+1417696167635	Extracts string 'null' into R.string.defaultstring
+1417696340142	Extracts string 'null' into R.string.btnplaytrailer
+1417696430217	Extracts string 'null' into R.string.newtrailer
+1417696522155	Extracts string 'null' into R.string.btndel
+1417701419225	Rename field 'tvCurrentRating'
+1417705288883	Change Layout
+1417705816929	Rename field 'textView1'
+1417705827930	Extracts string 'null' into R.string.desc
+1417705899563	Rename field 'etDesc'
+1417705977822	Rename field 'button1'
+1417705990737	Extracts string 'null' into R.string.sub

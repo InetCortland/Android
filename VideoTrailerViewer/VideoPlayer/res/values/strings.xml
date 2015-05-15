@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VideoPlayer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_trailer_list">TrailerList</string>
+    <string name="title_activity_trailer_details">TrailerDetails</string>
+    <string name="title_activity_video_page">VideoPage</string>
+    <string name="lblcurRating">Current Rating:</string>
+    <string name="nullstring">" "</string>
+    <string name="defaultrating">0</string>
+    <string name="defaultstring">Null Field, Default Field</string>
+    <string name="btnplaytrailer">Play Trailer</string>
+    <string name="newtrailer">Add new Trailer</string>
+    <string name="btndel">Del</string>
+    <string name="title_activity_insert_trailer">InsertTrailer</string>
+    <string name="desc">Description</string>
+    <string name="sub">Submit Insert</string>
+    
+    <string-array name="trailer_array">
+        <item>guardiansofthegalaxy</item>
+        <item>thehungergamesmockingjay</item>
+   </string-array>
+
+</resources>
